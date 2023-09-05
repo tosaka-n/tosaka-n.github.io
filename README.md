@@ -1,3 +1,4 @@
 # tosaka-n.github.io
-http://tosaka-n.github.io/
-https://amzn.to/3P1fwdz
+[github](http://tosaka-n.github.io/)
+
+[コロコロコミック 2023年 10 月号](https://amzn.to/3P1fwdz)
